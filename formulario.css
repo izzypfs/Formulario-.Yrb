@@ -5,7 +5,7 @@
 
 #titulo {
     font-family: sans-serif;
-    color:white;
+    color:rgb(0, 0, 0);
     margin-left: 7%;
 } 
 
@@ -36,7 +36,7 @@ body{
 input, select, textarea, button {
     font-family: sans-serif;
     font-size: 1em;
-    color: white;
+    color: black;
     border-radius: 5px;
 }
 
@@ -75,7 +75,7 @@ fieldset.grupo .campo {
 }
 
 .campo input:focus, .campo select:focus, .campo textarea:focus {
-    background:#B0C4DE	;
+    background:#A9A9A9		;
 }
 
 .botao {
